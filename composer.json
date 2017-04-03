@@ -1,0 +1,16 @@
+{
+  "name": "Kambaa/php-pcntl-tests",
+  "description": "PCNTL Learning Examples",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ],
+  "require": {
+    
+  },
+  
+}
